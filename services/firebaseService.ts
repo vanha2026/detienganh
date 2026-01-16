@@ -28,14 +28,15 @@ import {
 import { Exam, Room, Submission, StudentInfo, User, Role, Question } from '../types';
 
 // ============ FIREBASE CONFIG ============
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "THỰC TẾ",
-  authDomain: "THỰC TẾ",
-  projectId: "stuchat-project",
-  storageBucket: "THỰC TẾ",
-  messagingSenderId: "THỰC TẾ",
-  appId: "THỰC TẾ",
-  measurementId: "THỰC TẾ"
+  apiKey: "AIzaSyBFC8WBan5wcSdGa3naT_3K0QlYVNVnreA",
+  authDomain: "detienganh-8ce06.firebaseapp.com",
+  projectId: "detienganh-8ce06",
+  storageBucket: "detienganh-8ce06.firebasestorage.app",
+  messagingSenderId: "5505342301",
+  appId: "1:5505342301:web:c674958fc864c0490c26b4",
+  measurementId: "G-91Z4FFSJD8"
 };
 
 // Initialize Firebase
